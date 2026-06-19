@@ -1,0 +1,20 @@
+VGG16
+
+Acc: 0.8274 | Prec: 0.8656 | Rec: 0.8611 | F1: 0.8634 | AUC: 0.9029
+
+ResNet18
+
+ Acc: 0.8602 | Prec: 0.9218 | Rec: 0.8688 | F1: 0.8945 | AUC: 0.9425
+
+
+DenseNet-121
+
+Acc: 0.8525 | Prec: 0.8446 | Rec: 0.89 | F1: 0.867 | AUC: 0.9295
+
+mobilenet_v3_small
+
+Acc: 0.7599 | Prec: 0.8909 | Rec: 0.7076 | F1: 0.7887 | AUC: 0.8641
+
+Proposed Model
+
+| Acc: 0.8813 | Prec: 0.8655 | Rec: 0.9619 | F1: 0.9112 | AUC: 0.9477
